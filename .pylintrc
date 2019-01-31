@@ -1,0 +1,3 @@
+[MESSAGE CONTROL]
+disable = C, F, I, R, W
+# disable = W0401, W0614, C0103, W0201, R0902, R0201, E1101
